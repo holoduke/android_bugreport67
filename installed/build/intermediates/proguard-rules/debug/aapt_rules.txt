@@ -1,0 +1,109 @@
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/bundles/debug/res/layout/content_main.xml:0
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_bottom_navigation_item.xml:0
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_navigation_item.xml:0
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_navigation_menu.xml:0
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_layout_snackbar_include.xml:0
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/bundles/debug/res/layout/activity_main.xml:0
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_text_input_password_icon.xml:0
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_bottom_sheet_dialog.xml:0
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/bundles/debug/res/layout/activity_main.xml:0
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/bundles/debug/res/layout/activity_main.xml:0
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout-sw600dp-v13/design_layout_snackbar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/res/layout/design_layout_snackbar.xml:0
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_button_bar_material.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_material.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_select_dialog_material.xml:0
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_action_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_expanded_menu_layout.xml:0
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_list_menu_item_layout.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_popup_menu_item_layout.xml:0
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_action_mode_bar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_toolbar.xml:0
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_action_menu_layout.xml:0
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_activity_chooser_view.xml:0
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_material.xml:0
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_button_bar_material.xml:0
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_content_include.xml:0
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_alert_dialog_title_material.xml:0
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_dialog_title_material.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_simple.xml:0
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_search_view.xml:0
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout-v26/abc_screen_toolbar.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_toolbar.xml:0
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/bundles/debug/res/layout/activity_main.xml:0
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_simple.xml:0
+# Referenced at /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/res/layout/abc_screen_simple_overlay_action_mode.xml:0
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/installed/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml:58
+-keep class com.android.tools.ir.server.InstantRunContentProvider { <init>(...); }
+
+# Referenced at /Users/gillis/AndroidStudioProjects/bugreport1/installed/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml:39
+-keep class com.example.gillis.myapplication.MainActivity { <init>(...); }
+

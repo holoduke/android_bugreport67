@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+MERGED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9f7e0aa6e73d74c0588cdc7e68f304bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5903604bbd7e2e4a17cdf1194fd19904/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+	package
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:23:5-57
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:1-24:12
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml:22:11-69
+uses-sdk
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+MERGED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9f7e0aa6e73d74c0588cdc7e68f304bf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9f7e0aa6e73d74c0588cdc7e68f304bf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5903604bbd7e2e4a17cdf1194fd19904/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5903604bbd7e2e4a17cdf1194fd19904/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		ADDED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+		INJECTED from /Users/gillis/AndroidStudioProjects/bugreport1/installed/src/main/AndroidManifest.xml
+application
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-23:19
+MERGED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-17:43
+MERGED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-17:43
+MERGED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5903604bbd7e2e4a17cdf1194fd19904/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gillis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5903604bbd7e2e4a17cdf1194fd19904/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-38
+	android:roundIcon
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from [:base] /Users/gillis/AndroidStudioProjects/bugreport1/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-40
+activity#com.example.gillis.myapplication.MainActivity
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-21:29
+action#android.intent.action.MAIN
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:27-73
+category#android.intent.category.LAUNCHER
+ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from [:feature_a] /Users/gillis/AndroidStudioProjects/bugreport1/feature_a/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03fedcb5da979cf9007514bd1671d806/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/94ee873d6ea406142f443c03fb8c3f62/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f5e856d945a08fd0b379224ce96ae698/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3c81f6352470c605518f2082711a36f2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9cbf1134de8f4fe672b19cca7ee3086b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/3d601c814d7937d3fbf3685c8eae8fd5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/318ab5fde78c86b6cb35aa77f4086d8d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d66c4bb71790d3a06adcf5da6cab19eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/36f966b22ef6e82ad6342445d7e4b142/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8a376e5db1ff4ec974c08663c1a17493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a13a2ba4f3c78df44b389a76cdf4b2d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/737e92a0c496b7d8c230c22f6e49b3df/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/327230af09c82a1cd80fc0c233cf10f3/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/gillis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0e1402b531e1a3a66dc903486fe4dc16/AndroidManifest.xml:26:13-58

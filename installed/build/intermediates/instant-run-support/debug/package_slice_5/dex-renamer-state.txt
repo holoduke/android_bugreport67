@@ -1,0 +1,4 @@
+#Thu Oct 05 17:17:49 BST 2017
+base.0=/Users/gillis/AndroidStudioProjects/bugreport1/installed/build/intermediates/transforms/dexMerger/debug/35
+renamed.0=classes.dex
+file.0=/Users/gillis/AndroidStudioProjects/bugreport1/installed/build/intermediates/transforms/dexMerger/debug/35/classes.dex
